@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1740397292797,
+    "nome": "Café OURO",
+    "descricao": "Café da qualidade Arábica ouro",
+    "valor": "34"
+  },
+  {
+    "id": 1740405711943,
+    "nome": "Arroz",
+    "descricao": "Arroz branco agulhinha",
+    "valor": "34"
+  },
+  {
+    "id": 1740406298697,
+    "nome": "Pão integral",
+    "descricao": "Pão integral 50% com 15 grãos",
+    "valor": "34"
+  },
+  {
+    "id": 1740406439978,
+    "nome": "Massa de Macarrão",
+    "descricao": "Macarrão parafuso colorido",
+    "valor": "34"
+  },
+  {
+    "id": 1740412289713,
+    "nome": "Massa de Pizza",
+    "descricao": "Piza de Calabresa",
+    "valor": "34"
+  },
+  {
+    "id": 1740412785231,
+    "nome": "Açúcar Mascavo",
+    "descricao": "Açúcar mascavo 500g",
+    "valor": "34"
+  },
+  {
+    "id": 1740413524406,
+    "nome": "Açúcar Mascavo Refinado",
+    "descricao": "Açúcar mascavo 1500g",
+    "valor": "34"
+  },
+  {
+    "id": 1740413546259,
+    "nome": "Açúcar Mascavo Refinado",
+    "descricao": "Açúcar mascavo 1500g"
+  },
+  {
+    "id": 1740413616675,
+    "nome": "Massa de Macarrão",
+    "descricao": "Macarrão parafuso colorido",
+    "valor": "34"
+  },
+  {
+    "id": 1740413641583,
+    "nome": "Pão duro",
+    "descricao": "Pão duro muito duro",
+    "valor": "34"
+  },
+  {
+    "id": 1740413750268,
+    "nome": "Massa de Pão",
+    "descricao": "Macarrão parafuso colorido",
+    "valor": "34"
+  },
+  {
+    "id": 1740417750350,
+    "nome": "Massa de Macarrão",
+    "descricao": "Macarrão parafuso colorido",
+    "valor": "34"
+  },
+  {
+    "id": 1740418545083,
+    "nome": "Massa de Macarrão",
+    "descricao": "Macarrão parafuso colorido",
+    "valor": "34"
+  }
+]

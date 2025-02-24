@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#itemForm {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#itemForm label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#itemForm input[type="text"] {
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#itemForm button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#itemForm button:hover {
+    background-color: #45a049;
+}
+
+#itemList li {
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+}
